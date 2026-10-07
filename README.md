@@ -1,4 +1,4 @@
-> **Shadow Handler — Repository Access**
+> **Shadow Handler (README ONLY)**
 >
 > This is only the README for the **Shadow Handler** project. Its purpose is to present the work that has been completed on the project so far.
 >
